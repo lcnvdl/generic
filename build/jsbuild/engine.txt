@@ -13,6 +13,7 @@ src\color.js
 src\component.js
 src\def.js
 src\engine.js
+src\clock.js
 src\entity.js
 src\eventmanager.js
 src\events.js
